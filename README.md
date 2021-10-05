@@ -9,6 +9,9 @@ Neural network plays a key role in the recognion of the cancer cells among the n
 Identification of skin diseases is done using image analysis and Convolutional Neural Networks. It is found that by using the Convolutional neural networks we can achieve a higher accuracy rate. 
 
 ### 💡 Project for Sale:
+#### 🤝 Contact to Buy:
+ Email: v.snehith999@gmail.com <br>
+ LinkedIn: [snehitvaddi](https://www.linkedin.com/in/snehitvaddi/)
 ##### What do you get:
 * Code for CNN Training, & testing
 * Application code(Flask, HTML, CSS, Js) 
@@ -24,7 +27,3 @@ Identification of skin diseases is done using image analysis and Convolutional N
 * Numpy 
 * matplotlib
 * scikit-learn
-
-### Contact to Buy:
- Email: v.snehith999@gmail.com <br>
- LinkedIn: [snehitvaddi](https://www.linkedin.com/in/snehitvaddi/)
