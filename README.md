@@ -1,6 +1,8 @@
 
 ## Lung Cancer Detection using CNNs
 
+### 💡 Project for Sale:
+
 https://user-images.githubusercontent.com/35267863/135984262-72d0e035-69be-4185-b51d-45ae7c939607.mp4
 
 ### 🧠 Overview of Project: <br>
@@ -8,7 +10,6 @@ Neural network plays a key role in the recognion of the cancer cells among the n
 <br>
 Identification of skin diseases is done using image analysis and Convolutional Neural Networks. It is found that by using the Convolutional neural networks we can achieve a higher accuracy rate. 
 
-### 💡 Project for Sale:
 #### 🤝 Contact to Buy:
  Email: v.snehith999@gmail.com <br>
  LinkedIn: [snehitvaddi](https://www.linkedin.com/in/snehitvaddi/)
